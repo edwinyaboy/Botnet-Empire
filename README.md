@@ -13,9 +13,25 @@ A browser-based hacker and botnet themed idle clicker game.
 
 ⚠️ **Still in development — expect bugs!** Please report issues or suggestions.
 
+This is V1, I'm sure I will add more over time, please give me some ideas!
+
 ---
 
-This is V1, I'm sure I will add more over time, please give me some ideas!
+## Update List
+
+- [ ] Offline Progress Notification
+- [ ] Mobile Compatibility
+- [ ] Bug Fixes
+- [X] Bot and Revenue Graphs
+- [X] Data Management
+- [X] Prestige System
+- [X] Achievements System
+- [X] Randomized Bot Tiers
+- [X] Fluctuating Bot Prices
+- [X] Random Events
+- [X] Automation Mechanics
+- [X] Upgrades & Stats
+- [X] Basic Idle Clicker Gameplay
 
 ---
 
