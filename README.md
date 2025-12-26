@@ -7,7 +7,7 @@
 
 A browser-based hacker and botnet themed idle clicker game.
 
-**Play Here:** [https://edwinyaboy.github.io/botnet-empire/](https://edwinyaboy.github.io/botnet-empire/)
+(COMING SOON) **Play Here:** (COMING SOON) [https://edwinyaboy.github.io/botnet-empire/](https://edwinyaboy.github.io/botnet-empire/) (COMING SOON)
 
 ---
 
