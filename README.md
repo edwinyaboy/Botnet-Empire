@@ -19,14 +19,14 @@ This is V1, I'm sure I will add more over time, please give me some ideas!
 
 ## Update List
 
-- [ ] DDoS Minigame
+- [ ] More Random Event Types & Offline Events
+- [ ] Offline Progress Notification
+- [ ] File Crypt Cycle
 - [ ] Crypto Mining (Low/High Risk)
 - [ ] Crypto Market
 - [ ] Scraped Data Market
-- [ ] Crypt Cycle
+- [ ] DDoS Minigame
 - [ ] Slots Minigame
-- [ ] More Random Event Types & Offline Events
-- [ ] Offline Progress Notification
 - [ ] Mobile Compatibility
 - [ ] Bug Fixes
 - [X] Bot and Revenue Graphs
